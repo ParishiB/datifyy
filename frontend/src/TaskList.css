@@ -1,0 +1,22 @@
+/* TaskList.css */
+
+.light {
+    background-color: #fff;
+    color: #333;
+  }
+  
+  .dark {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  /* Add additional styles for dark mode as needed */
+  .dark button {
+    background-color: #555;
+  }
+  
+  /* Add additional styles for light mode as needed */
+  .light button {
+    background-color: #007bff;
+  }
+  
